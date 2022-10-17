@@ -1,0 +1,17 @@
+
+body{
+    display:flex;
+    height:1000px;
+    width: 1000px;
+    background-color: black;
+}
+.constainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+ background-color: rgb(121, 159, 146);   
+
+}
